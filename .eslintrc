@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "biased-ts/ProperTS",
+        "biased-ts/ProperDoc"
+    ],
+    "root": true,
+    "parserOptions": {
+        "project": [
+            "./tsconfig.json"
+        ]
+    }
+}
