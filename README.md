@@ -1,7 +1,6 @@
 <br />
 
-UTILS
-----------
+# utils
 
 `utils` is a general purpose [Typescript](tslang.org) library. 
 
