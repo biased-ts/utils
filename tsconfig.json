@@ -30,7 +30,7 @@
     "allowJs": true,
     "skipLibCheck": true,
     "baseUrl": ".",
-    "declaration": false
+    "declaration": true
   },
   "exclude": [
     "node_modules"
