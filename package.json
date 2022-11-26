@@ -1,6 +1,6 @@
 {
   "name": "@biased-ts/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/index.js",
   "repository": {
     "url": "https://github.com/biased-ts/utils",
