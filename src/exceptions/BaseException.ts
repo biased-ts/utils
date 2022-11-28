@@ -21,7 +21,7 @@
  */
 class BaseException extends Error
 {
-    protected static create(
+    static create(
         name: Readonly<string> = 'GeneralException',
         message: Readonly<string> = 'N/A'
     ): BaseException
